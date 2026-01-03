@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @montakimalhakim
 - 👀 I’m interested in Front End Developer
-- 🌱 I’m currently learning Fron End Development
+- 🌱 I’m currently learning Front End Development
 - 💞️ I’m looking to collaborate on Front End Coding
-- 📫 How to reach me : freeelanciingg@gmail.com
+- 📫 How to reach me : freeelanciingg@gmail.com, montakim.al.hakim@gmail.com
 - 😄 Pronouns: Mr.
-- ⚡ Fun fact: Coding
+- ⚡ Fun fact: Design, Develpment & html Coding
 
 
 montakimalhakim/montakimalhakim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
